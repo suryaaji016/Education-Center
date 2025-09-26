@@ -1,0 +1,7 @@
+[
+  { "question": "5 + 7 = ?", "answerKey": "12", "courseId": 1 },
+  { "question": "Past tense dari 'go'?", "answerKey": "went", "courseId": 2 },
+  { "question": "Hukum I Newton disebut?", "answerKey": "Hukum Kelembaman", "courseId": 3 },
+  { "question": "Simbol kimia H2O?", "answerKey": "Air", "courseId": 4 },
+  { "question": "Proklamasi Kemerdekaan RI tahun?", "answerKey": "1945", "courseId": 5 }
+]
