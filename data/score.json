@@ -1,0 +1,7 @@
+[
+  { "userId": 1, "exerciseId": 1, "finalScore": 80 },
+  { "userId": 1, "exerciseId": 2, "finalScore": 70 },
+  { "userId": 3, "exerciseId": 3, "finalScore": 90 },
+  { "userId": 5, "exerciseId": 4, "finalScore": 60 },
+  { "userId": 1, "exerciseId": 5, "finalScore": 85 }
+]

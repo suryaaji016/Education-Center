@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Matematika Dasar",
+    "description": "Belajar konsep dasar penjumlahan, pengurangan, perkalian, pembagian.",
+    "duration": 60,
+    "categoryId": 1,
+    "userId": 2
+  },
+  {
+    "id": 2,
+    "name": "Bahasa Inggris Pemula",
+    "description": "Pengenalan grammar dasar, vocabulary, dan percakapan sehari-hari.",
+    "duration": 75,
+    "categoryId": 2,
+    "userId": 4
+  },
+  {
+    "id": 3,
+    "name": "Fisika Mekanika",
+    "description": "Konsep gerak, gaya, hukum Newton.",
+    "duration": 90,
+    "categoryId": 3,
+    "userId": 2
+  },
+  {
+    "id": 4,
+    "name": "Kimia Dasar",
+    "description": "Struktur atom, ikatan kimia, tabel periodik.",
+    "duration": 80,
+    "categoryId": 4,
+    "userId": 4
+  },
+  {
+    "id": 5,
+    "name": "Sejarah Indonesia",
+    "description": "Sejarah dari kerajaan Nusantara hingga kemerdekaan.",
+    "duration": 70,
+    "categoryId": 5,
+    "userId": 2
+  }
+]
